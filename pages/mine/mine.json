@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "雷课堂",
+  "usingComponents": {
+    "MyTitle": "../../components/MyTitle/MyTitle"
+  }
+}

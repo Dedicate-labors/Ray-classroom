@@ -1,0 +1,11 @@
+/* pages/xiti/xiti.wxss */
+.me_icons{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}
+.me_icons image{
+  width:400rpx;
+  height:400rpx;
+}

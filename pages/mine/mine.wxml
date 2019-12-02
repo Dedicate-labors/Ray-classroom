@@ -1,0 +1,22 @@
+<!--pages/mine/mine.wxml-->
+<view class="main">
+<MyTitle></MyTitle>
+</view>
+<view class="me_icon">
+<image style="width=320rpx;height=100rpx;" src="../../icons/me.jpg"></image>
+</view>
+<view>
+<button bindtap="kejian">我的课件库</button>
+</view>
+<view>
+<button bindtap="shijuan">我的试卷库</button>
+</view>
+<view>
+<button bindtap="xiti">我的习题集</button>
+</view>
+<view>
+<button bindtap="shoucang">我的收藏</button>
+</view>
+<view>
+<button bindtap="shenfen">身份绑定</button>
+</view>

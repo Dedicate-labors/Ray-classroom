@@ -1,0 +1,9 @@
+/* pages/mine/mine.wxss */
+.me_icon{
+  flex:9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding:10rpx;
+  background-color: #fff
+}

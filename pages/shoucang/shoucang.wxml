@@ -1,0 +1,9 @@
+<view class="main">
+<MyTitle></MyTitle>
+</view>
+<view class="me_icons">
+<text>
+暂无收藏
+</text>
+<image style="width=320rpx;height=100rpx;" src="../../icons/zanwu.jpg"></image>
+</view>

@@ -1,0 +1,12 @@
+<view class="logo_icon">
+<image style="width:100rpx;height:60rpx;" src="../../icons/logo.jpg"></image>
+<view class="search_icon">
+<image style="width:80rpx;height:60rpx;" src="../../icons/search.jpg"></image>
+</view>
+<view class="user_icon">
+<image style="width:80rpx;height:60rpx;" src="../../icons/user.jpg"></image>
+</view>
+<view class="set_icon">
+<image style="width:80rpx;height:60rpx;" src="../../icons/set.jpg"></image>
+</view>
+</view>

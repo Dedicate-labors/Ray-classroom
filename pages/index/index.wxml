@@ -1,0 +1,22 @@
+<!--pages/index/index.wxml-->
+<navigator url="/pages/map/jichu"><button class="btn3">获取位置信息</button></navigator>
+<!-- 课件库 -->
+<view>
+<button bindtap="kejian" class="btn4">我的课件</button>
+</view>
+
+<image src="{{masrc}}" ></image>
+
+<!-- 扫码 -->
+<view>
+  <button type="button" bindtap="saoma" class="btn1">
+  <view>扫码</view>
+  </button>
+</view>
+
+<!-- 添加二维码 -->
+<view>   
+<button type="button" bindtap="creatma" class="btn2" >
+  <view>创建二维码</view>
+</button>
+</view>
